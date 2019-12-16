@@ -1,0 +1,7 @@
+That’s   why   accessibility   testing   is   designed   for   -   to   ensure   our   product’ stability for people
+with disabilities like hearing, blindness, old age and other disadvantages. It   is   clear   that   accessibility
+testing   is   a   subset   of   Usability testing, that helps to recognize criteria for the best product designed also
+for people   with   disabilities   to   help   them   in   operating   a   software   or   hardware product. There
+are   special   software   for   people   with   health   problems,   known   assisting   technology,
+designed   to   help   them   operating   software   products. Examples of such software are Speech Recognition
+Software, Screen reader software, Screen Magnification Software, Special keyboard and etc.
