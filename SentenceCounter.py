@@ -5,9 +5,10 @@ f=open("story.txt", "r")
 str=f.read()
 #counting sentences of the string
 num=str.count(". ")
+num=num+str.count(".\n")
 #checking whether the last sentence is counted
-if str.endswith('. ') : num
-else: num=num+1
+if str.endswith('.') : num=num+1
+else: num=num
 #printing counted sentence number
 print(num)
 
